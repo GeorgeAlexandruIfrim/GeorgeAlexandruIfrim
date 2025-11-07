@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeAlexandruIfrim
-- 👀 I’m interested in Java, Spring
-- 🌱 I’m currently learning Spring Security
+- 👀 I’m interested in Java, JS/TS, Spring/Angular
+- 🌱 I’m currently learning TS/Angular
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me georgealexandruifrim@gmail.com
 
